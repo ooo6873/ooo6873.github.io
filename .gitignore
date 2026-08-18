@@ -1,0 +1,7 @@
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 遗留的源代码（非站点资源，未被页面引用）
+背景.txt
